@@ -1,0 +1,2 @@
+* git branch -v = to see what branch on main, master, update_script
+* git pull origin main = to ge the update directly from github page
